@@ -1,7 +1,10 @@
 
 # LangGraph RAG (Local)
 
-Создание (RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
+Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
+
+Используется русскоязычная LLM от Т-Банка - T-lite.
+
 [Основан на примере из документации LangGraph](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag_local/)
 
 ![alt text](image.png)

@@ -1,3 +1,6 @@
+# Ignore credentials
+credentials.txt
+
 # Ignore Python virtual environments
 rag_venv/
 venv/
